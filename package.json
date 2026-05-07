@@ -1,6 +1,6 @@
 {
   "name": "claude-code-permission-sound",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Plays a sound whenever Claude Code asks for permissions",
   "bin": {
     "claude-code-permission-sound": "./bin/cli.js"
@@ -14,16 +14,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/prkkhan786/claude-code-permission-sound"
+    "url": "git+https://github.com/prkkhan786/claude-code-permission-sound.git"
   },
   "homepage": "https://github.com/prkkhan786/claude-code-permission-sound#readme",
   "license": "MIT",
-  "module": "index.ts",
-  "type": "module",
-  "devDependencies": {
-    "@types/bun": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^5"
-  }
+  "type": "module"
 }
