@@ -1,6 +1,6 @@
 {
   "name": "claude-code-permission-sound",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Plays a sound whenever Claude Code asks for permissions",
   "bin": {
     "claude-code-permission-sound": "./bin/cli.js"
