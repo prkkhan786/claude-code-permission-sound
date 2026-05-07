@@ -8,8 +8,9 @@
   "keywords": ["claude", "claude-code", "hook", "notification", "sound"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/claude-code-permission-sound"
+    "url": "https://github.com/prkkhan786/claude-code-permission-sound"
   },
+  "homepage": "https://github.com/prkkhan786/claude-code-permission-sound#readme",
   "license": "MIT",
   "module": "index.ts",
   "type": "module",
@@ -19,4 +20,5 @@
   "peerDependencies": {
     "typescript": "^5"
   }
+  
 }

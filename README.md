@@ -1,6 +1,6 @@
 # claude-code-permission-sound 🔔
 
-> Plays a sound whenever Claude Code asks for your permission
+> Plays a sound whenever Claude Code asks for your permission — so you can step away and come back when needed.
 
 ## Install
 
