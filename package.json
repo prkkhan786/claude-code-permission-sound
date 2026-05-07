@@ -1,0 +1,23 @@
+{
+  "name": "claude-code-permission-sound",
+  "version": "1.0.0",
+  "description": "Plays a sound whenever Claude Code asks for permissions",
+  "bin": {
+    "claude-code-permission-sound": "./bin/cli.js"
+  },
+  "keywords": ["claude", "claude-code", "hook", "notification", "sound"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/claude-code-permission-sound"
+  },
+  "license": "MIT",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
