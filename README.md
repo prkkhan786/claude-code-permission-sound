@@ -4,17 +4,17 @@
 
 ## Install
 
-\`\`\`bash
+```bash
 npx claude-code-permission-sound install
-\`\`\`
+```
 
 Works on macOS and Linux. No dependencies.
 
 ## Uninstall
 
-\`\`\`bash
+```bash
 npx claude-code-permission-sound uninstall
-\`\`\`
+```
 
 ## How it works
 
